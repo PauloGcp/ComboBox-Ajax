@@ -1,0 +1,36 @@
+{
+  "dias": [
+    {
+      "id": 1,
+      "nome": "Domingo"
+    },
+    {
+      "id": 2,
+      "nome": "Segunda"
+    },
+    {
+      "id": 3,
+      "nome": "Terça"
+    },
+    {
+      "id": 4,
+      "nome": "Quarta"
+    },
+    {
+      "id": 5,
+      "nome": "Quinta"
+    },
+    {
+      "id": 6,
+      "nome": "Sexta"
+    },
+    {
+      "id": 7,
+      "nome": "Sábado"
+    },
+    {
+      "nome": "teste",
+      "id": 8
+    }
+  ]
+}
